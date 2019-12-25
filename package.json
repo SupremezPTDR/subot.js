@@ -1,7 +1,7 @@
 {
   "name": "Bot",
   "version": "0.1.0",
-  "description": "Projet Discord JS Supremez",
+  "description": "Bot Supremez",
   "main": "main.js",
   "repository": "https://github.com/SupremezPTDR/subot.js.git",
   "author": "<kyle.calesse@gmail.com>",
